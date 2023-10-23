@@ -1,0 +1,46 @@
+Q. What Is a Recommendation System?
+
+Ans:  A recommendation system is an artificial intelligence or AI algorithm, usually associated with machine learning, that uses Big Data to suggest or recommend additional products to consumers. These can be based on various criteria, including past purchases, search history, demographic information, and other factors. Recommender systems are highly useful as they help users discover products and services they might otherwise have not found on their own.
+
+Recommender systems are trained to understand the preferences, previous decisions, and characteristics of people and products using data gathered about their interactions. These include impressions, clicks, likes, and purchases. Because of their capability to predict consumer interests and desires on a highly personalized level, recommender systems are a favorite with content and product providers. They can drive consumers to just about any product or service that interests them, from books to videos to health classes to clothing.
+
+Q. What is a product recommendation
+
+Ans:  In the product discovery phase, you can use more than one tool to show the consumer the most suitable options, offer the right personalized products, and design a satisfying experience. Product recommendations are one of the most powerful of these tools.
+
+Q. Advantage of product recommendations
+
+Ans: 1.Recommendations for related products:
+					Provides a list of related products that are similar to the chosen one, either in use or in price which creates a cross-selling opportunity. For example at the cart step, offering complementary products to the ones already added to the cart, you can encourage your customer to shop a little bit more.
+
+2.Recommendations based on past purchases:
+					If you already bought a digital camera, a recommendation of its lenses might make sense.
+
+3.Recommendations based on search:
+					Product recommendation engines may look at search history to suggest products based on terms consumers have used.
+
+
+Q.Types of Recommendation Systems
+
+Ans: 1.Collaborative filtering algorithms recommend items (this is the filtering part) based on preference information from many users (this is the collaborative part).
+
+2.Content filtering, by contrast, uses the attributes or features of an item (this is the content part) to recommend other items similar to the user’s preferences.
+
+3.Hybrid recommender systems combine the advantages of the types above to create a more comprehensive recommending system.
+
+4.Context filtering includes users’ contextual information in the recommendation process.
+
+Q.Recommendation Engine Benefits
+Ans: 1.Drive Traffic
+     2.Deliver Relevant Content
+     3.Engage Shoppers
+     4.Convert Shoppers to Customers
+     5.Increase Average Order Value
+     6.Increase Number of Items per Order
+     7.Control Merchandising and Inventory Rules
+     8.Reduce Workload and Overhead
+     9.A Recommendation Engine Provides Reports
+     10.Offer Advice and Direction
+
+
+* Dataset: MovieLens
